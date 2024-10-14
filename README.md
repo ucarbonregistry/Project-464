@@ -1,6 +1,8 @@
 # Project-464
 42.5 MW Wind Power Project by BPCL in Karnataka
 
+PP: BHORUKA POWER CORPORATION LTD
+
 ![](https://www.ucarbonregistry.io/Registry/Generate?code=https%3A%2F%2Fwww.ucarbonregistry.io%2FRegistry%2FDetails%3Fid%3D5eRdhxNJoFXDgdrlum4KRA%253D%253D&size=2)
 
 
